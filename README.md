@@ -10,11 +10,11 @@
 
 ## Hipótesis
 
-1. El país con mayor tasa de mortálidad es Honduras proque tiene mayor tasa de criminalidad.
-2. El año con mayor tasa de mortalidad fue 2019.
+1. El país con mayor mortálidad es Honduras proque tiene mayor tasa de criminalidad.
+2. El año con mayor tasa de mortalidad fue 2019 debido al coronavirus.
 3. Aumenta proporcionalmente el número de muertes con el número de población mundial.
 4. El mayor porcentaje de muertes por causas de la naturaleza/ poblacion del país es el Tsunami de 2004 de Indonesia.
-5. El número de meurtes por SIDA ha bajado.
+5. El número de muertes por SIDA ha bajado.
 -----
 
 ### Este proyecto muestra conocimientos en:
@@ -66,40 +66,64 @@
 ### Incremento de muertes anuales:
 *Incremento medio de 360.400 muertes anuales*
 
+### Podemos ver como a medida que pasan los años cada vez vemos más y más muertes mundales, incrementa más o menos de una manera bastante lineal.
 ![Image](src/Images/IncrementoMuertesPorAnio.PNG)
 
 ### Incremento de población mundial:
 *Incremento medio 81.000.000 de personas al año*
+
+### Vemos que la población mundial crece muy linealmente cada año cuando lo que uno se imaginaría sería un crecimiento exponencial.
 
 ![Image](src/Images/IncrementoPoblacion.PNG)
 
 ### Decremento de la tasa de mortalidad:
 *Decremento medio de un 0,004% al año*
 
+### Esta gráfica nos indica que cada vez hay menor proporción de muertes con respecto a las personas totales en el planeta.
 ![Image](src/Images/DecrementoMortalidad.PNG)
 
 ### Incremento de la poblacion por países:
 
+### Los países que van claramente en la cabeza son China seguido de la India, en tercera posición estaría Estados unidos y luego Indonesia.
 ![Image](src/Images/IncrementoPoblacionPais.PNG)
 
 ### Previsión apoximada población India/China -2030 :
 *Incremento India: 16437991 personas más cada *año*
 *Incremento China: 8891666 personas más cada año*
 
+### Esto es una gráfica de como seguirá el crecimiento de los 2 países con mayor población y según esta estimacion la India llegará a tener aproximadamente la misma población que China en 2025 para después superarla en los próximos años.
+
 ![Image](src/Images/PrevisionChinaIndia2030.PNG)
 
 ### Paises con más muertes(1990-2019):
 
+### Hay bastante variación desde 1990 hasta 2019 con respecto al país que iba en cabeza en el número de muertes pero vemos unos claros picos en Ruanda en 1994 a causa del llamado "Genocidio de Ruanda", con Eritrea en 1999 debido a la guerra con Etiopíay con Haití en 2010 debido a un terremoto.
 ![Image](src/Images/PaisesConMasMuertes.PNG)
 
 ### Paises con más muertes(2016-2019):
 
+### Vemos que los paises con más muertes en estos últimos años son Bulgaria seguido de Ucrania y Serbia. Podemos destacar al bajada de muertes de Lesoto desde 2016.
 ![Image](src/Images/PaisesConMasMuertes20162019.PNG)
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</div>
-</p>
+### Incremendo del número de muertes globales por VIH:
+
+### El año con mayores muertes por VIH fue 2005 y ya venían aumentando desde 1999, a partir de 2005 podemos ver una bajada significativa.
+![Image](src/Images/IncrementoMuertesPorVIH.png)
+
+### Muertes por VIH:
+
+### Entre el año 2000 y 2005 vemos que los países con mayores muertes por VIH son Botsuana, Suazilandia, Lesoto, Zimbabue, Sudáfrica seguidos de otros varios países del sur de África.
+![Image](src/Images/MuertesPorVIH.PNG)
+
+### Muertes por causas de la naturaleza:
+
+### Podemos ver como hay varias pronuncuaciones en años concretos pero uno que llama mucho la atención es el de Haití en 2010 debido a un terremoto.
+![Image](src/Images/MuertesPorCausasDeLaNaturaleza.PNG)
+
+## Conclusiones:
+
+1. El país con mayor mortálidad es Honduras proque tiene mayor tasa de criminalidad. **FALSO**
+2. El año con mayor tasa de mortalidad fue 2019 deebido al coronavirus. **FALSO**
+3. Aumenta proporcionalmente el número de muertes con el número de población mundial. **VERDADERO**
+4. El mayor porcentaje de muertes por causas de la naturaleza/poblacion del país es el Tsunami de 2004 de Indonesia. **FALSO**
+5. El número de muertes por SIDA ha bajado. **VERDADERO**
