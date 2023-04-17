@@ -1,6 +1,6 @@
 # Análisis Exploratorio sobre las muertes desde 1990 hasta 2019
 
-### Este proyecto tiene como objetivo obtener respiestas a partir de varios datos sobre años de muertes en el mundo dependiendo de la causa, lugar, y fecha de las muertes. Se han concretado una serie de hipótesis sin argumentos y de las que se intentará saber si son verdaderas o falsas.
+### Este proyecto tiene como objetivo obtener respuestas a partir de varios datos sobre años de muertes en el mundo dependiendo de la causa, lugar, y fecha de las muertes. Se han concretado una serie de hipótesis sin argumentos y de las que se intentará saber si son verdaderas o falsas.
 
 ## Fuentes de Datos:
 * > [OurWorldInData](https://ourworldindata.org/causes-of-death)
